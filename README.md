@@ -1,1 +1,1 @@
-# studentregistration
+# studentregistration application using mongo db
